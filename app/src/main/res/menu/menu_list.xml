@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.oakraw.indoorlog.ListActivity">
+    <item android:id="@+id/action_add"
+        android:title="add"
+        android:icon="@mipmap/ic_add_white_36dp"
+        android:orderInCategory="100" android:showAsAction="ifRoom" />
+</menu>
